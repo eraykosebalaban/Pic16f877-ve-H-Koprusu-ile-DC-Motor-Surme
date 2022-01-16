@@ -1,0 +1,19 @@
+[PROJECT]
+Target=H koprusu ile dc motor surme.hex
+Processor_Text=PIC16F877
+CCSVersion=5.007
+Compiler=PCM
+[Target Data]
+FileList=H koprusu ile dc motor surme.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\
+[H koprusu ile dc motor surme.c]
+Type=4
+[mru-list]
+1=H koprusu ile dc motor surme.c
+[Opened Files]
+1=H koprusu ile dc motor surme.c
+2=
+[Units]
+Count=1
+1=H koprusu ile dc motor surme (main)
